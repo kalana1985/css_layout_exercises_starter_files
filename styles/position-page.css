@@ -51,8 +51,7 @@ nav .black_cat{
 	border:1px blue solid;
 }
 body{
-	 background: url(/Users/kalanaagalakotuwa/desktop/projects /css_layout_exercises_starter_files/images
-    	/outerspace_landscape.jpeg)no-repeat;
+	 background: url("../images/outerspace_landscape.jpeg")no-repeat;
     background-size: cover;
 }
     .nav_bar a:hover{
